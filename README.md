@@ -1,19 +1,21 @@
 # Metric-Imperial-Converter
-A Python program, which converts measurements between Metric and Imperial units across length, mass, temperature and liquid volume. 
 
-Available conversions:
-# Length Converter
-m -> ft
-ft -> m
+A Python program that converts measurements between Metric and Imperial units across length, mass, temperature, and liquid volume.
 
-# Mass Converter
-kg -> lbs
-lbs -> kg
+## Available Conversions
 
-# Temperature Converter
-C -> F
-F -> C
+### Length
+* **m** &rarr; **ft**
+* **ft** &rarr; **m**
 
-# Liquid Volume Converter
-L -> gal
-gal -> L
+### Mass
+* **kg** &rarr; **lbs**
+* **lbs** &rarr; **kg**
+
+### Temperature
+* **°C** &rarr; **°F**
+* **°F** &rarr; **°C**
+
+### Liquid Volume
+* **L** &rarr; **gal**
+* **gal** &rarr; **L**
