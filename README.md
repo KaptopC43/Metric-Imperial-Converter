@@ -1,4 +1,4 @@
-# Metric-Imperial-Converter
+# Metric <-> Imperial Converter
 
 A Python program that converts measurements between Metric and Imperial units across length, mass, temperature, and liquid volume.
 
